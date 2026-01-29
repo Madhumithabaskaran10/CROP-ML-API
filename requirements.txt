@@ -1,0 +1,15 @@
+numpy
+pandas
+joblib
+fastapi
+uvicorn
+pandas
+scikit-learn
+
+
+
+
+
+
+
+

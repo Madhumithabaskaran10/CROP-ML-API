@@ -1,0 +1,101 @@
+crop_name,max_storage_days,storage_type,spoilage_risk
+Sugarcane,248,Open Storage,Medium
+Wheat,235,Open Storage,Low
+Maize,101,Warehouse,Medium
+Cotton,33,Warehouse,Medium
+Cotton,258,Warehouse,Medium
+Barley,328,Open Storage,High
+Rice,163,Open Storage,Medium
+Cotton,61,Open Storage,Low
+Groundnut,187,Cold Storage,Medium
+Soybean,189,Open Storage,Low
+Barley,218,Open Storage,Low
+Cotton,98,Warehouse,Low
+Groundnut,340,Warehouse,Medium
+Soybean,271,Open Storage,High
+Cotton,156,Open Storage,High
+Wheat,299,Warehouse,High
+Millets,69,Open Storage,Low
+Rice,310,Open Storage,Low
+Mustard,304,Cold Storage,Low
+Millets,296,Warehouse,Low
+Cotton,328,Warehouse,Low
+Soybean,258,Cold Storage,Medium
+Maize,292,Warehouse,Medium
+Mustard,59,Open Storage,Medium
+Barley,41,Warehouse,Medium
+Rice,141,Open Storage,Low
+Rice,246,Warehouse,High
+Wheat,307,Cold Storage,Low
+Groundnut,46,Warehouse,Medium
+Maize,99,Open Storage,High
+Sugarcane,221,Warehouse,Medium
+Sugarcane,222,Cold Storage,High
+Soybean,98,Open Storage,Medium
+Wheat,121,Open Storage,Medium
+Soybean,95,Open Storage,Low
+Rice,41,Warehouse,Medium
+Soybean,247,Open Storage,Medium
+Cotton,156,Warehouse,Medium
+Maize,171,Cold Storage,High
+Wheat,46,Open Storage,Medium
+Mustard,38,Cold Storage,Low
+Wheat,81,Open Storage,Low
+Groundnut,336,Open Storage,High
+Rice,155,Open Storage,Low
+Sugarcane,254,Cold Storage,High
+Cotton,58,Cold Storage,High
+Barley,149,Open Storage,High
+Millets,325,Open Storage,High
+Millets,151,Warehouse,Low
+Soybean,143,Warehouse,Medium
+Barley,61,Open Storage,High
+Maize,350,Open Storage,Medium
+Soybean,283,Cold Storage,Medium
+Sugarcane,298,Warehouse,High
+Sugarcane,239,Cold Storage,Medium
+Sugarcane,124,Open Storage,Medium
+Cotton,145,Warehouse,High
+Maize,267,Cold Storage,High
+Sugarcane,243,Open Storage,High
+Maize,228,Cold Storage,Medium
+Cotton,199,Open Storage,Low
+Groundnut,219,Cold Storage,High
+Cotton,56,Warehouse,Medium
+Mustard,338,Cold Storage,Low
+Cotton,330,Open Storage,High
+Soybean,141,Warehouse,Low
+Millets,185,Cold Storage,Low
+Cotton,90,Open Storage,Medium
+Cotton,339,Open Storage,Low
+Sugarcane,152,Open Storage,Medium
+Barley,224,Warehouse,High
+Millets,187,Warehouse,Medium
+Soybean,284,Warehouse,Low
+Groundnut,193,Cold Storage,Medium
+Millets,241,Cold Storage,High
+Cotton,104,Cold Storage,Medium
+Soybean,329,Open Storage,High
+Sugarcane,181,Cold Storage,Low
+Millets,147,Warehouse,High
+Cotton,285,Open Storage,High
+Millets,161,Warehouse,High
+Groundnut,265,Cold Storage,High
+Millets,116,Cold Storage,High
+Soybean,280,Cold Storage,High
+Rice,298,Cold Storage,Low
+Rice,33,Warehouse,Low
+Cotton,64,Open Storage,Low
+Rice,141,Open Storage,Medium
+Millets,60,Open Storage,High
+Mustard,277,Open Storage,Medium
+Rice,33,Open Storage,High
+Sugarcane,36,Cold Storage,High
+Barley,304,Warehouse,Low
+Soybean,250,Cold Storage,Low
+Wheat,298,Cold Storage,Low
+Cotton,347,Open Storage,Medium
+Millets,166,Warehouse,Low
+Millets,237,Warehouse,High
+Cotton,145,Warehouse,High
+Wheat,364,Open Storage,Low

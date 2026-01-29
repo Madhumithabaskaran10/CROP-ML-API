@@ -1,0 +1,103 @@
+crop_name,state,year,yield_ton_per_hectare,rainfall,temperature,soil_type
+Mustard,Uttar Pradesh,2021,3.01,906,28,Loamy
+Groundnut,Karnataka,2020,5.09,748,26,Clay
+Barley,Uttar Pradesh,2015,3.82,595,20,Loamy
+Sugarcane,Maharashtra,2023,4.91,1107,33,Clay
+Groundnut,Maharashtra,2015,1.92,626,30,Clay
+Cotton,Punjab,2024,3.16,966,34,Sandy
+Sugarcane,Andhra Pradesh,2023,2.99,1119,32,Sandy
+Barley,Punjab,2018,2.04,597,28,Loamy
+Soybean,Andhra Pradesh,2017,2.36,1156,33,Sandy
+Mustard,Uttar Pradesh,2024,2.77,502,24,Sandy
+Cotton,Punjab,2017,2.86,1125,35,Loamy
+Barley,Tamil Nadu,2015,3.99,1114,22,Clay
+Groundnut,Tamil Nadu,2015,4.08,880,33,Sandy
+Millets,Karnataka,2015,2.64,889,21,Loamy
+Sugarcane,Maharashtra,2016,4.1,1102,19,Loamy
+Maize,Uttar Pradesh,2019,1.88,654,21,Clay
+Sugarcane,Uttar Pradesh,2024,5.06,631,34,Sandy
+Groundnut,Maharashtra,2019,5.37,839,27,Clay
+Mustard,Tamil Nadu,2024,5.82,501,24,Clay
+Cotton,Punjab,2016,2.21,577,35,Loamy
+Maize,Tamil Nadu,2021,3.53,1008,33,Sandy
+Rice,Karnataka,2019,4.68,1119,32,Loamy
+Cotton,Punjab,2024,4.48,602,31,Loamy
+Soybean,Karnataka,2017,5.59,545,20,Loamy
+Maize,Punjab,2024,4.87,982,27,Sandy
+Wheat,Maharashtra,2019,4.65,678,34,Clay
+Groundnut,Maharashtra,2016,4.19,842,28,Clay
+Barley,Tamil Nadu,2016,2.53,1090,18,Clay
+Barley,Uttar Pradesh,2015,4.93,579,33,Clay
+Groundnut,Punjab,2017,5.99,846,33,Loamy
+Groundnut,Punjab,2021,3.0,1086,21,Loamy
+Millets,Maharashtra,2022,2.8,810,35,Loamy
+Groundnut,Tamil Nadu,2020,2.64,518,30,Clay
+Rice,Andhra Pradesh,2023,3.58,455,24,Clay
+Millets,Uttar Pradesh,2022,4.31,1178,19,Loamy
+Barley,Uttar Pradesh,2017,5.67,848,33,Loamy
+Rice,Andhra Pradesh,2024,5.1,1126,23,Sandy
+Soybean,Tamil Nadu,2023,3.34,630,21,Sandy
+Wheat,Andhra Pradesh,2017,3.74,1133,27,Clay
+Barley,Maharashtra,2022,5.91,649,32,Clay
+Maize,Maharashtra,2018,5.65,920,22,Loamy
+Barley,Maharashtra,2020,5.7,919,26,Loamy
+Barley,Andhra Pradesh,2019,5.27,993,33,Loamy
+Groundnut,Uttar Pradesh,2022,3.05,965,35,Sandy
+Groundnut,Punjab,2018,5.91,644,30,Loamy
+Sugarcane,Tamil Nadu,2020,4.85,1122,30,Sandy
+Maize,Maharashtra,2015,2.07,1004,28,Loamy
+Groundnut,Tamil Nadu,2023,5.6,415,22,Sandy
+Maize,Tamil Nadu,2022,5.02,671,28,Clay
+Sugarcane,Andhra Pradesh,2016,5.33,1090,35,Sandy
+Millets,Andhra Pradesh,2022,5.43,436,20,Loamy
+Barley,Karnataka,2016,3.45,500,21,Sandy
+Maize,Andhra Pradesh,2019,5.57,447,28,Loamy
+Barley,Punjab,2020,3.44,650,34,Sandy
+Mustard,Andhra Pradesh,2017,2.26,480,30,Clay
+Cotton,Maharashtra,2024,2.14,872,26,Sandy
+Barley,Andhra Pradesh,2015,5.55,876,27,Clay
+Soybean,Karnataka,2016,3.49,753,27,Clay
+Sugarcane,Andhra Pradesh,2019,3.56,709,24,Sandy
+Groundnut,Tamil Nadu,2018,3.22,767,27,Clay
+Barley,Tamil Nadu,2021,2.74,979,19,Clay
+Groundnut,Punjab,2018,4.23,760,25,Clay
+Cotton,Uttar Pradesh,2019,4.55,1138,22,Clay
+Wheat,Andhra Pradesh,2015,2.89,851,19,Clay
+Millets,Andhra Pradesh,2017,1.91,702,28,Clay
+Sugarcane,Karnataka,2018,2.09,952,29,Clay
+Soybean,Punjab,2017,2.66,893,27,Clay
+Millets,Tamil Nadu,2022,5.83,544,25,Clay
+Sugarcane,Uttar Pradesh,2020,1.91,804,18,Sandy
+Soybean,Tamil Nadu,2022,3.16,1166,26,Clay
+Sugarcane,Andhra Pradesh,2020,1.99,639,33,Loamy
+Mustard,Uttar Pradesh,2020,5.62,626,20,Clay
+Groundnut,Andhra Pradesh,2019,4.42,519,22,Loamy
+Rice,Punjab,2022,2.02,640,35,Loamy
+Sugarcane,Maharashtra,2020,4.52,1160,35,Sandy
+Mustard,Andhra Pradesh,2017,5.48,1070,21,Sandy
+Mustard,Maharashtra,2019,1.65,779,24,Sandy
+Groundnut,Karnataka,2020,1.95,1102,29,Clay
+Millets,Tamil Nadu,2021,2.74,525,32,Loamy
+Cotton,Andhra Pradesh,2024,5.87,451,28,Loamy
+Maize,Uttar Pradesh,2018,1.81,1183,35,Loamy
+Mustard,Karnataka,2018,2.98,551,18,Sandy
+Maize,Karnataka,2023,2.63,578,21,Clay
+Rice,Karnataka,2015,3.11,643,28,Loamy
+Maize,Punjab,2015,2.07,831,34,Loamy
+Wheat,Maharashtra,2022,5.0,925,21,Sandy
+Soybean,Karnataka,2024,1.7,1074,34,Sandy
+Groundnut,Andhra Pradesh,2015,1.77,890,30,Sandy
+Wheat,Maharashtra,2022,1.83,482,28,Clay
+Maize,Tamil Nadu,2017,2.74,1048,35,Clay
+Millets,Maharashtra,2024,3.89,864,34,Clay
+Sugarcane,Tamil Nadu,2016,5.34,1066,35,Clay
+Cotton,Maharashtra,2022,5.5,823,28,Sandy
+Sugarcane,Maharashtra,2016,2.91,720,26,Sandy
+Maize,Andhra Pradesh,2022,1.8,487,20,Sandy
+Wheat,Andhra Pradesh,2020,5.15,969,19,Clay
+Soybean,Uttar Pradesh,2020,4.52,820,29,Clay
+Sugarcane,Andhra Pradesh,2015,5.86,1014,27,Sandy
+Wheat,Uttar Pradesh,2023,2.46,1072,33,Loamy
+Wheat,Punjab,2023,3.15,1180,26,Clay
+mungbean,Uttar Pradesh,2023,2.46,1072,33,Loamy
+

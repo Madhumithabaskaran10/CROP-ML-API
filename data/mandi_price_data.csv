@@ -1,0 +1,101 @@
+date,crop_name,market_name,state,price_per_quintal,arrival_quantity
+2023-01-23,Millets,Bangalore,Andhra Pradesh,5006,1524
+2022-09-07,Maize,Bangalore,Tamil Nadu,7065,1689
+2022-07-26,Rice,Delhi,Karnataka,1558,1720
+2021-02-12,Rice,Delhi,Punjab,5422,915
+2023-01-17,Groundnut,Delhi,Tamil Nadu,7370,1424
+2021-01-26,Barley,Delhi,Tamil Nadu,8292,1442
+2021-11-10,Barley,Chennai,Punjab,4779,1921
+2022-03-30,Groundnut,Mumbai,Punjab,2730,1116
+2023-11-18,Groundnut,Delhi,Uttar Pradesh,3384,1740
+2020-06-18,Sugarcane,Chennai,Maharashtra,6135,1784
+2021-01-04,Soybean,Delhi,Punjab,2040,263
+2021-11-02,Barley,Delhi,Maharashtra,6136,1569
+2022-05-22,Maize,Mumbai,Punjab,4862,186
+2024-01-28,Millets,Mumbai,Punjab,6438,1720
+2020-04-27,Wheat,Mumbai,Punjab,5403,1740
+2023-10-23,Maize,Chennai,Karnataka,8152,1344
+2023-10-20,Groundnut,Chennai,Karnataka,1750,583
+2023-08-14,Millets,Delhi,Maharashtra,8978,1261
+2020-03-07,Mustard,Bangalore,Andhra Pradesh,4885,859
+2022-01-31,Groundnut,Chennai,Uttar Pradesh,2327,1184
+2022-01-21,Sugarcane,Delhi,Andhra Pradesh,3483,611
+2020-08-20,Rice,Bangalore,Maharashtra,5441,892
+2023-02-24,Wheat,Delhi,Punjab,6967,1013
+2021-03-15,Mustard,Delhi,Andhra Pradesh,8707,1105
+2021-02-13,Wheat,Bangalore,Tamil Nadu,4903,453
+2023-12-31,Groundnut,Chennai,Andhra Pradesh,8126,754
+2023-09-29,Millets,Chennai,Uttar Pradesh,5641,694
+2021-09-06,Maize,Bangalore,Punjab,5367,559
+2020-09-05,Cotton,Bangalore,Karnataka,7674,1111
+2020-02-23,Millets,Delhi,Maharashtra,7783,1229
+2020-09-22,Mustard,Chennai,Tamil Nadu,3733,915
+2024-01-08,Groundnut,Mumbai,Maharashtra,7944,1277
+2020-05-31,Maize,Delhi,Andhra Pradesh,1807,1021
+2022-08-12,Soybean,Delhi,Karnataka,8392,1797
+2023-02-03,Mustard,Bangalore,Karnataka,4744,1129
+2020-04-23,Wheat,Bangalore,Punjab,2548,431
+2021-10-22,Cotton,Delhi,Uttar Pradesh,8531,681
+2020-06-10,Barley,Bangalore,Andhra Pradesh,5712,662
+2020-09-13,Barley,Chennai,Uttar Pradesh,6450,445
+2023-04-27,Mustard,Bangalore,Karnataka,6596,1378
+2024-01-15,Mustard,Delhi,Uttar Pradesh,1537,1790
+2020-02-28,Wheat,Chennai,Andhra Pradesh,7516,1281
+2021-06-26,Cotton,Mumbai,Uttar Pradesh,6434,162
+2022-10-16,Soybean,Delhi,Andhra Pradesh,3674,1089
+2021-05-16,Sugarcane,Delhi,Maharashtra,1797,1510
+2020-05-02,Maize,Mumbai,Maharashtra,5166,1051
+2021-02-21,Millets,Bangalore,Punjab,8257,1571
+2021-10-15,Millets,Mumbai,Karnataka,7431,858
+2022-11-20,Soybean,Chennai,Punjab,3180,1055
+2020-09-07,Barley,Mumbai,Karnataka,2354,298
+2020-04-13,Barley,Mumbai,Uttar Pradesh,4625,608
+2020-11-23,Millets,Delhi,Karnataka,7451,426
+2022-10-17,Soybean,Mumbai,Maharashtra,8401,731
+2022-10-15,Rice,Chennai,Maharashtra,5340,1036
+2021-05-08,Cotton,Delhi,Tamil Nadu,1614,676
+2022-10-10,Mustard,Mumbai,Punjab,5596,116
+2020-08-08,Sugarcane,Bangalore,Punjab,7159,849
+2022-04-05,Millets,Chennai,Maharashtra,1619,1267
+2023-02-24,Cotton,Delhi,Uttar Pradesh,3564,250
+2022-03-02,Soybean,Mumbai,Uttar Pradesh,3491,1790
+2023-06-30,Mustard,Chennai,Karnataka,1992,906
+2022-02-03,Millets,Delhi,Karnataka,2830,1333
+2022-11-08,Sugarcane,Chennai,Tamil Nadu,1518,380
+2024-01-01,Millets,Mumbai,Uttar Pradesh,4943,405
+2023-05-26,Soybean,Bangalore,Punjab,8829,1355
+2021-10-14,Maize,Mumbai,Uttar Pradesh,7256,1825
+2021-09-04,Mustard,Delhi,Uttar Pradesh,7985,1143
+2022-12-26,Groundnut,Delhi,Maharashtra,7882,134
+2022-01-24,Millets,Chennai,Maharashtra,5981,730
+2024-01-25,Rice,Mumbai,Punjab,6570,1703
+2023-03-30,Mustard,Bangalore,Andhra Pradesh,1620,1295
+2022-09-10,Maize,Mumbai,Karnataka,7931,1494
+2021-05-11,Rice,Chennai,Karnataka,1355,1003
+2021-10-04,Sugarcane,Bangalore,Maharashtra,6856,517
+2022-04-20,Soybean,Mumbai,Andhra Pradesh,7158,227
+2023-12-16,Maize,Bangalore,Uttar Pradesh,3862,1456
+2022-09-06,Soybean,Mumbai,Punjab,2618,1041
+2022-12-27,Millets,Delhi,Andhra Pradesh,7524,1876
+2024-01-16,Barley,Mumbai,Karnataka,3219,671
+2023-02-16,Barley,Bangalore,Punjab,7517,691
+2023-12-14,Cotton,Mumbai,Punjab,5130,814
+2023-02-21,Barley,Delhi,Tamil Nadu,5897,1485
+2023-01-17,Sugarcane,Mumbai,Punjab,7532,1747
+2020-10-26,Barley,Chennai,Punjab,7050,261
+2021-12-10,Groundnut,Delhi,Andhra Pradesh,5124,538
+2021-02-17,Soybean,Delhi,Uttar Pradesh,6903,656
+2020-10-08,Wheat,Bangalore,Karnataka,1615,1471
+2022-12-23,Cotton,Bangalore,Tamil Nadu,2020,946
+2021-11-07,Groundnut,Chennai,Andhra Pradesh,7514,381
+2020-01-11,Soybean,Bangalore,Maharashtra,6548,1903
+2022-09-01,Groundnut,Bangalore,Punjab,3831,684
+2023-08-15,Rice,Chennai,Andhra Pradesh,5903,575
+2022-12-31,Rice,Bangalore,Maharashtra,8427,1815
+2020-12-26,Rice,Mumbai,Maharashtra,2726,1633
+2021-08-15,Rice,Chennai,Punjab,5852,1334
+2020-08-07,Millets,Delhi,Maharashtra,6453,1212
+2022-12-09,Groundnut,Bangalore,Uttar Pradesh,5034,658
+2021-01-29,Wheat,Delhi,Karnataka,7189,1039
+2023-08-20,Barley,Bangalore,Tamil Nadu,7234,790
+2021-08-27,Mustard,Bangalore,Karnataka,6204,1853
